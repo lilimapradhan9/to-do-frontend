@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`To do App should load todo input form 1`] = `
+<body>
+  <div>
+    <form>
+      <h1>
+        Hellooo
+      </h1>
+      <p>
+        Enter Todo
+      </p>
+      <input
+        aria-label="todo"
+        type="text"
+      />
+    </form>
+    
+  </div>
+</body>
+`;
+
+exports[`To do App should should display todo 1`] = `
+<body>
+  <div>
+    <form>
+      <h1>
+        Hellooo
+      </h1>
+      <p>
+        Enter Todo
+      </p>
+      <input
+        aria-label="todo"
+        type="text"
+      />
+    </form>
+    <h1>
+      Todo List
+    </h1>
+    <h6>
+      abcd
+    </h6>
+  </div>
+</body>
+`;
